@@ -1,0 +1,10 @@
+*.*
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!album.png
+!notes.chart
+!song.ini
+!song.ogg
+!*/
